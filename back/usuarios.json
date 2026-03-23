@@ -1,0 +1,20 @@
+[
+  {
+    "email": "teste@exemplo.com",
+    "senha": "$2b$10$HJ.i/dHK3OwJnRIHJQ62xu7eUEgGRDXbrpO.Wu.0rG/dm8Kdcrc8C"
+  },
+  
+  {
+    "email": "admin@gmail.com",
+    "senha": "$2b$10$wQWkArp.JEVSf0EMkbBWDuT7wzQZpLhmSJYBE2xKQfj/dU5ID61sK"
+ 
+  },
+  {
+    "email": "livia@gmail.com",
+    "senha": "$2b$10$Wc8TDaWukfs0vTUrw6XY/uma3hg6aFAUqHTHEreGnIoveureilpNq"
+  },
+  {
+    "email": "stefanne@gmail.com",
+    "senha": "$2b$10$ZyJULvbS8XRszw6h5c5EFOV0PcfBrOwkomRYf2gDpuf6XljzBCTYK"
+  }
+]
