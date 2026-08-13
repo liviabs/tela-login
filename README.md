@@ -1,7 +1,7 @@
-# 🧾 CRUD com Autenticação Simples
+# 🧾 Sistema de Login com Autenticação e Node.js
 
 ##  Sobre o Projeto
-Este projeto é um **CRUD simples** com sistema de login. A autenticação é feita utilizando **email e senha pré-definidos**, armazenados em um **arquivo JSON** que simula um banco de dados. As senhas são **criptografadas**, garantindo uma camada básica de segurança, mesmo sendo um ambiente de teste.
+Aplicação web desenvolvida com React e Node.js, implementando um sistema de autenticação com validação de email e senha. Os usuários são armazenados em um arquivo JSON que simula um banco de dados, com senhas protegidas utilizando bcrypt.
 
 ## Tecnologias Utilizadas
 * JavaScript
