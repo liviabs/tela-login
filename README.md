@@ -11,5 +11,4 @@ Aplicação web desenvolvida com React e Node.js, implementando um sistema de au
 ## Funcionalidades
 * Login com validação de email e senha
 * Senhas armazenadas de forma criptografada
-* Operações CRUD (Criar, Ler, Atualizar e Deletar)
 * Simulação de banco de dados com JSON
